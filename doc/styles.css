@@ -1,0 +1,141 @@
+@charset "UTF-8";
+.nav {
+    text-align: center;
+    background-color: #F1D2AD;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: -40px;
+    word-spacing: 39px;
+    opacity: 0.86;
+}
+.body {
+    background-image: url(images/cats.png);
+    background-repeat: repeat;
+    background-size: 152px auto;
+    background-color: #F1D2AD;
+}
+.h1 {
+    text-align: center;
+    font-size: 5em;
+    text-decoration: line-through;
+    font-weight: lighter;
+    opacity: 0.67;
+    letter-spacing: 14px;
+    -webkit-box-shadow: 0px 0px #F1D2AD;
+    box-shadow: 0px 0px #F1D2AD;
+    background-color: #F1D2AD;
+    border: thick outset #AC7C43;
+    font-style: italic;
+}
+.running {
+    margin-left: 38.5em;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-right: auto;
+}
+.div {
+    float: left;
+}
+.h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 3em;
+    background-color: #F1D2AD;
+    margin-top: -0.5em;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    opacity: 0.74;
+    border-radius: 0em;
+}
+.bodiv {
+    background-color: #FFF0E0;
+    margin-top: auto;
+    margin-right: 13em;
+    margin-bottom: auto;
+    margin-left: 13em;
+    padding-top: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    border: 0.2em solid #8A6F50;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    border-radius: 2em;
+    opacity: 1;
+}
+.chart {
+    background-color: #FFFFFF;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    border-radius: 2em;
+    border: 0.2em solid #8A6F50;
+}
+.top {
+    padding-left: 9em;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-top: auto;
+    border-top-right-radius: 0px;
+}
+.top2 {
+    padding-left: 3em;
+}
+a:link {
+
+  color: #000000; 
+
+  background-color: transparent; 
+
+  text-decoration: none;
+
+}
+
+
+a:visited {
+
+  color: #B66AFF;
+
+  background-color: transparent;
+
+  text-decoration: none;
+
+}
+
+
+a:hover {
+
+  color: #FF37E5;
+
+  background-color: transparent;
+
+  text-decoration: underline;
+
+}
+
+
+a:active {
+
+  color: #671CAB;
+
+  background-color: transparent;
+
+  text-decoration: underline;
+
+}
